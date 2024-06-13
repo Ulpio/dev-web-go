@@ -1,4 +1,4 @@
-module github.com/ulpio/deb-web-go
+module Projeto
 
 go 1.22.4
 
